@@ -440,23 +440,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
-DocumentPath=RTC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=17
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WQUKRSXL
-
 [Parameter1]
 Name=ApprovedBy
 Value=Vu Pham
@@ -1445,9 +1428,32 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=GND|NetColor=$000099CC
-Net2=NetName=GND_12V_AUX|NetColor=$00003366
-Net3=NetName=GND_5V_AUX|NetColor=$00336666
+Net1=NetName=+1.8V|NetColor=clYellow
+Net2=NetName=+12V|NetColor=$0000BE00
+Net3=NetName=+12V_Heater|NetColor=$0000BE00
+Net4=NetName=+12V_IN|NetColor=$0000BE00
+Net5=NetName=+12V_Solenoid|NetColor=$0000BE00
+Net6=NetName=+3.3V|NetColor=clYellow
+Net7=NetName=+5V_HD4|NetColor=$00FF99FF
+Net8=NetName=+5V_IO|NetColor=$00FF99FF
+Net9=NetName=+5V_OUT|NetColor=$006E6EFF
+Net10=NetName=+5V_SOM|NetColor=$006E6EFF
+Net11=NetName=+5V_TEC|NetColor=$00FF99FF
+Net12=NetName=GND|NetColor=$000099CC
+Net13=NetName=GND_12V_AUX|NetColor=$00003366
+Net14=NetName=GND_5V_AUX|NetColor=$00336666
+Net15=NetName=HEATER_A_1|NetColor=$0000BE00
+Net16=NetName=HEATER_A_2|NetColor=$0000BE00
+Net17=NetName=HEATER_A_3|NetColor=$0000BE00
+Net18=NetName=HEATER_A_4|NetColor=$0000BE00
+Net19=NetName=NTC1+|NetColor=$00FF99FF
+Net20=NetName=NTC2+|NetColor=$00FF99FF
+Net21=NetName=NTC3+|NetColor=$00FF99FF
+Net22=NetName=NTC4+|NetColor=$00FF99FF
+Net23=NetName=NTC5+|NetColor=$00FF99FF
+Net24=NetName=NTC6+|NetColor=$00FF99FF
+Net25=NetName=NTC7+|NetColor=$00FF99FF
+Net26=NetName=NTC8+|NetColor=$00FF99FF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
