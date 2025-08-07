@@ -11,7 +11,6 @@ Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=IO_EXPAND.SchDoc|Sh
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=LED.SchDoc|SheetNumber=11
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=NTC.SchDoc|SheetNumber=14
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=POWER.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=RTC.SchDoc|SheetNumber=18
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=SOM_BOOT.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=SOM_POWER.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=TEC.SchDoc|SheetNumber=12
