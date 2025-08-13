@@ -799,7 +799,7 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=
 Configuration1_Name5=VisibleOrder
@@ -1446,9 +1446,9 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=+1.8V|NetColor=clYellow
 Net2=NetName=+12V|NetColor=$0000BE00
-Net3=NetName=+12V_Heater|NetColor=$0000BE00
+Net3=NetName=+12V_Heater|NetColor=$0099FF99
 Net4=NetName=+12V_IN|NetColor=$00FFFF6E
-Net5=NetName=+12V_Solenoid|NetColor=$0000BE00
+Net5=NetName=+12V_Solenoid|NetColor=$00006600
 Net6=NetName=+3.3V|NetColor=clYellow
 Net7=NetName=+5V_HD4|NetColor=$00FF99FF
 Net8=NetName=+5V_IO|NetColor=$00FF99FF
@@ -1458,10 +1458,10 @@ Net11=NetName=+5V_TEC|NetColor=$00FF99FF
 Net12=NetName=GND|NetColor=$000099CC
 Net13=NetName=GND_12V_AUX|NetColor=$00003366
 Net14=NetName=GND_5V_AUX|NetColor=$00336666
-Net15=NetName=HEATER_A_1|NetColor=$0000BE00
-Net16=NetName=HEATER_A_2|NetColor=$0000BE00
-Net17=NetName=HEATER_A_3|NetColor=$0000BE00
-Net18=NetName=HEATER_A_4|NetColor=$0000BE00
+Net15=NetName=HEATER_A_1|NetColor=$0099FF99
+Net16=NetName=HEATER_A_2|NetColor=$0099FF99
+Net17=NetName=HEATER_A_3|NetColor=$0099FF99
+Net18=NetName=HEATER_A_4|NetColor=$0099FF99
 Net19=NetName=NTC1+|NetColor=$00FF99FF
 Net20=NetName=NTC2+|NetColor=$00FF99FF
 Net21=NetName=NTC3+|NetColor=$00FF99FF
