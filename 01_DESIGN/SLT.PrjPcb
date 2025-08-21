@@ -1444,7 +1444,7 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=+1.8V|NetColor=clYellow
+Net1=NetName=+1.8V|NetColor=$00CCFFFF
 Net2=NetName=+12V|NetColor=$0000BE00
 Net3=NetName=+12V_Heater|NetColor=$0099FF99
 Net4=NetName=+12V_IN|NetColor=$00FFFF6E
