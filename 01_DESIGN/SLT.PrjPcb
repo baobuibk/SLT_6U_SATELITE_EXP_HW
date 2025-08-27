@@ -440,6 +440,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SLT\Design Rule Check - SLT.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ApprovedBy
 Value=Vu Pham
@@ -1481,4 +1485,7 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|Use
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[Parameter Manager Custom Column Order]
+<Schematic>=Comment,"Component Kind",Description,Footprint,"Ibis Model","Library Name","Library Reference",PCB3D,"Pin Info","Signal Integrity",Simulation,Availability,Case/Package,Category,CLABCONF0,Check_prices,Chung_Loai,CLABCONF1,CLABCONF2,CLABCONF3,CLABCONF4,CLABCONF5,CLABCONF6,CLABCONF7,CLABCONF8,CLABCONF9,Code_IPC,Code_JEDEC,CompanyID,"ComponentLink1 Description",ComponentLink1Description,ComponentLink1URL,"ComponentLink2 Description",ComponentLink2Description,ComponentLink2URL,Copyright,"Created by","Created Date",Current,"Data Rate",Datasheet,DatasheetVersion,Don_Vi,Height,Inductance,Kieu_Chan,"Lead Free",Length,Manufacturer,Manufacturer_Name,Manufacturer_Part_Number,"Max Operating Temperature","Max Supply Voltage",Ma_Hang,MF,MFR,Mfr_Name,MFR_URL,"Min Operating Temperature","Min Supply Voltage",Mount,MP,MPN,NoPins,"Number of Channels","Number of Inputs","Number of Outputs","Number of Pins","On-State Resistance","Operating Supply Voltage",P/N,Package,"Package Quantity",PackageDescription,PackageReference,PackageVersion,Packaging,partNo,"PCB Footprint",PinCount,Price,Purchase-URL,"Radiation Hardening","REACH SVHC",RefDes,SnapEDA_Link,Solder,So_Chan,"Supply Type",Ten_Linh_Kien,"Throw Configuration",TYPE,Value,Voltage,Weight,Width,Manufacture
 
