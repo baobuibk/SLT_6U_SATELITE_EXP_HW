@@ -1493,7 +1493,7 @@ Net6=NetName=+3.3V|NetColor=clYellow
 Net7=NetName=+5V_HD4|NetColor=$00FF99FF
 Net8=NetName=+5V_IO|NetColor=$00FF99FF
 Net9=NetName=+5V_OUT|NetColor=$006E6EFF
-Net10=NetName=+5V_SOM|NetColor=$006E6EFF
+Net10=NetName=+5V_SOM|NetColor=$009933FF
 Net11=NetName=+5V_TEC|NetColor=$00FF99FF
 Net12=NetName=GND|NetColor=$000099CC
 Net13=NetName=GND_12V_AUX|NetColor=$00003366
