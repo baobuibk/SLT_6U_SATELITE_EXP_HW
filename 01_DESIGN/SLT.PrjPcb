@@ -1510,7 +1510,7 @@ Net23=NetName=NTC5+|NetColor=$00FF99FF
 Net24=NetName=NTC6+|NetColor=$00FF99FF
 Net25=NetName=NTC7+|NetColor=$00FF99FF
 Net26=NetName=NTC8+|NetColor=$00FF99FF
-Net27=NetName=SOLENOID_CTR_1|NetColor=clBlack
+Net27=NetName=SOLENOID_CTR_1|NetColor=clRed
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
